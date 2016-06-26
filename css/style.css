@@ -5,7 +5,7 @@ body {
 .a4 {
     background: white;
     border: 1px solid #cfcfcf;
-    box-shadow: -1px -1px 2px -1px #dedede;
+    box-shadow: 1px 1px 2px 1px #dedede;
     margin: 0 auto;
     width: 650px;
     height: 900px;   
