@@ -1,34 +1,30 @@
-img {
-    border: 2px solid black;
+body {
+    background: #efefef;
 }
 
-.hr {
-    margin: 20px 0px;
-    width: 35%;
-    padding-left: 600px;
+.a4 {
+    background: white;
+    border: 1px solid #cfcfcf;
+    box-shadow: -1px -1px 2px -1px #dedede;
+    margin: 0 auto;
+    width: 650px;
+    height: 900px;   
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+.spec {
+    margin-left: 63px;
  }
 
-h1{
-    text-align: center;
-}
-
-h2{
-    text-align: center;
-}
-p{
-    text-align: center;
-}
-
-div {
-    margin-left: 600px;
-    font-size: 20px;
+.hr {
+    margin: 30px 50px 30px 50px;
+    
 }
 
 ul {
-    margin: 20px 0px 20px 600px;
-    font-size: 20px;
-}
-
-a {
-    margin-left: 600px;
+     margin-left: 40px;
 }
